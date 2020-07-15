@@ -1,8 +1,12 @@
 # About daiki0508
+<br>
 
 # Contents
+- [Profiles](#Profiles)
+- [Links](#Links)
+<br>
 
-## Profile
+## Profiles
 ___
 
 ## Name
@@ -32,6 +36,11 @@ ___
 
 ## Qualification
 ###  &emsp;&nbsp;ITパスポート
+<br>
 
-## Link
+## Links
 ___
+
+### &emsp;&nbsp;[Twitter](https://twitter.com/otani_daiki)
+### &emsp;&nbsp;[Github](https://github.com/daiki0508)
+### &emsp;&nbsp;[HatenaBlog](https://daiki0508.hatenablog.com/)
