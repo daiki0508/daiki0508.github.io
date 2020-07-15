@@ -10,32 +10,37 @@
 ___
 
 ## Name
-### &emsp;&nbsp;Otani Daiki
+- Otani Daiki
 
 ## Birthplace
-### &emsp;&nbsp;Hiroshima_Prifecture
+- Hiroshima_Prifecture
 
 ## Resident
-### &emsp;&nbsp;Kanagawa_Prifecture
+- Kanagawa_Prifecture
 
 ## Profession
-### &emsp;&nbsp;ProfessionalStudent
+- ProfessionalStudent
 ### &emsp;&nbsp;Details
-#### &emsp;&nbsp;&emsp;&nbsp;Information Science College(ISC)
-#### &emsp;&nbsp;&emsp;&nbsp;Information Security Department
-#### &emsp;&nbsp;&emsp;&nbsp;Cyber Specialist Course　1st grade
+- Information Science College(ISC)
+- Information Security Department
+- Cyber Specialist Course　1st grade
 
 ## Club / Group
-### &emsp;&nbsp;None
+- None
 
 ## Areas of Interest
-###  &emsp;&nbsp;Reversing, Vulnerability of Android,<br> &emsp;&nbsp;BugBounty, CTF
+- Reversing
+- Vulnerability of Android
+- BugBounty
+- CTF
 
 ## Programming Language
-### &emsp;&nbsp;C, Python, Java,&nbsp;  etc
+- C
+- Python
+- Java&nbsp;  etc
 
 ## Qualification
-###  &emsp;&nbsp;ITパスポート
+- ITパスポート
 <br>
 
 ## Links
