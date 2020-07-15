@@ -4,4 +4,4 @@
 
 ## Profile
 ## Name
-<pre> Otani Daiki</pre>
+&emsp;Otani Daiki
