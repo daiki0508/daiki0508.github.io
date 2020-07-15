@@ -15,5 +15,7 @@
 
 ## Profession
 ### &emsp;&nbsp;ProfessionalStudent
-#### Details
-&emsp;&nbsp;Information Science College(ISC)
+### &emsp;&nbsp;Details
+#### &emsp;&nbsp;&emsp;&nbsp;Information Science College(ISC)<br>
+#### &emsp;&nbsp;&emsp;&nbsp;Information Security Department<br>
+#### &emsp;&nbsp;&emsp;&nbsp;Cyber Specialist Course　1st grade
