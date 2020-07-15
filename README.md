@@ -20,10 +20,9 @@ ___
 
 ## Profession
 - ProfessionalStudent
-### Details
-- Information Science College(ISC)
-- Information Security Department
-- Cyber Specialist Course　1st grade
+    - Information Science College(ISC)
+    - Information Security Department
+    - Cyber Specialist Course　1st grade
 
 ## Club / Group
 - None
