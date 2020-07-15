@@ -2,8 +2,8 @@
 <br>
 
 # Contents
-- [Profiles](#Profiles)
-- [Links](#Links)
+- [Profiles](#profiles)
+- [Links](#links)
 <br>
 
 ## Profiles
