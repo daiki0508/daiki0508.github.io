@@ -20,7 +20,7 @@ ___
 
 ## Profession
 - ProfessionalStudent
-### &emsp;&nbsp;Details
+### Details
 - Information Science College(ISC)
 - Information Security Department
 - Cyber Specialist Course　1st grade
