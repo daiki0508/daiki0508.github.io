@@ -3,6 +3,7 @@
 # Contents
 
 ## Profile
+___
 
 ## Name
 ### &emsp;&nbsp;Otani Daiki
@@ -16,6 +17,21 @@
 ## Profession
 ### &emsp;&nbsp;ProfessionalStudent
 ### &emsp;&nbsp;Details
-#### &emsp;&nbsp;&emsp;&nbsp;Information Science College(ISC)<br>
-#### &emsp;&nbsp;&emsp;&nbsp;Information Security Department<br>
+#### &emsp;&nbsp;&emsp;&nbsp;Information Science College(ISC)
+#### &emsp;&nbsp;&emsp;&nbsp;Information Security Department
 #### &emsp;&nbsp;&emsp;&nbsp;Cyber Specialist Course　1st grade
+
+## Club / Group
+### &emsp;&nbsp;None
+
+## Areas of Interest
+###  &emsp;&nbsp;Reversing, Vulnerability of Android,<br> &emsp;&nbsp;BugBounty, CTF
+
+## Programming Language
+### &emsp;&nbsp;C, Python, Java,&nbsp;  etc
+
+## Qualification
+###  &emsp;&nbsp;ITパスポート
+
+## Link
+___
