@@ -28,10 +28,13 @@ ___
 - None
 
 ## Areas of Interest
-- Reversing
+- MalwareAnalyze
 - Vulnerability of Android
 - BugBounty
-- CTF
+- CTF(Reversing)
+
+## Events
+- Security Camp 2020
 
 ## Programming Language
 - C
