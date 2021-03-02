@@ -37,12 +37,13 @@ ___
 - Security Camp 2020
 
 ## Programming Language
-- C
+- C/C++
 - Python
 - Java&nbsp;  etc
 
 ## Qualification
 - ITパスポート
+- 基本情報技術者試験
 <br>
 
 ## Links
