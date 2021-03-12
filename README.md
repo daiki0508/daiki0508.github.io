@@ -25,7 +25,7 @@ ___
     - Cyber Specialist Course　1st grade
 
 ## Club / Group
-- None
+- IPFactory
 
 ## Areas of Interest
 - MalwareAnalyze
