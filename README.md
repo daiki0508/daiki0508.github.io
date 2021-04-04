@@ -22,24 +22,25 @@ ___
 - ProfessionalStudent
     - Information Science College(ISC)
     - Information Security Department
-    - Cyber Specialist Course　1st grade
+    - Cyber Specialist Course　2st grade
 
 ## Club / Group
 - IPFactory
 
 ## Areas of Interest
-- MalwareAnalyze
 - Vulnerability of Android
-- BugBounty
+- Android developer
+- MalwareAnalyze
 - CTF(Reversing)
+- BugBounty
 
 ## Events
 - Security Camp 2020
 
 ## Programming Language
 - C/C++
-- Python
 - Java&nbsp;  etc
+- Python
 
 ## Qualification
 - ITパスポート
