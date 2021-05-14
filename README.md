@@ -42,7 +42,7 @@ ___
 - Java&nbsp;  etc
 - Python
 
-## Development Native app
+## Development Native apps
 - [ニュース検索アプリ](https://play.google.com/store/apps/details?id=com.websarva.wings.android.newsapp)
 - ToDoListアプリ(審議中)
 
