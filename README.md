@@ -44,7 +44,8 @@ ___
 
 ## Development Native apps
 - [ニュース検索アプリ](https://play.google.com/store/apps/details?id=com.websarva.wings.android.newsapp)
-- ToDoListアプリ(審議中)
+- [ToDoListアプリ](https://play.google.com/store/apps/details?id=com.websarva.wings.android.todoapps)
+- Clocks(審議中)
 
 ## Qualification
 - ITパスポート
