@@ -36,6 +36,7 @@ ___
 
 ## Events
 - Security Camp 2020
+- CODE BLUE 2021
 
 ## Programming Language
 - C/C++
@@ -46,6 +47,7 @@ ___
 - [ニュース検索アプリ](https://play.google.com/store/apps/details?id=com.websarva.wings.android.newsapp)
 - [ToDoListアプリ](https://play.google.com/store/apps/details?id=com.websarva.wings.android.todoapps)
 - [Clocks](https://play.google.com/store/apps/details?id=com.websarva.wings.android.clocks)
+- [QRコードリーダー・クリエイト](https://play.google.com/store/apps/details?id=com.websarva.wings.android.qrcodereader)
 
 ## Qualification
 - ITパスポート
