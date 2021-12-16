@@ -39,15 +39,17 @@ ___
 - CODE BLUE 2021
 
 ## Programming Language
+- Kotlin
+- Java
 - C/C++
-- Java&nbsp;  etc
-- Python
+- Python&nbsp;  etc
 
 ## Development Native apps
 - [ニュース検索アプリ](https://play.google.com/store/apps/details?id=com.websarva.wings.android.newsapp)
 - [ToDoListアプリ](https://play.google.com/store/apps/details?id=com.websarva.wings.android.todoapps)
 - [Clocks](https://play.google.com/store/apps/details?id=com.websarva.wings.android.clocks)
 - [QRコードリーダー・クリエイト](https://play.google.com/store/apps/details?id=com.websarva.wings.android.qrcodereader)
+- [シンプルボイスレコーダー](https://play.google.com/store/apps/details?id=com.websarva.wings.android.voicerecorder)
 
 ## Qualification
 - ITパスポート
