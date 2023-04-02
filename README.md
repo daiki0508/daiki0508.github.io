@@ -22,7 +22,7 @@ ___
 - ProfessionalStudent
     - Information Science College(ISC)
     - Information Security Department
-    - Cyber Specialist Course　3st grade
+    - Cyber Specialist Course　4st grade
 
 ## Club / Group
 - [IPFactory](https://ipfactory.org/)
