@@ -16,13 +16,7 @@ ___
 - Hiroshima_Prifecture
 
 ## Resident
-- Kanagawa_Prifecture
-
-## Profession
-- ProfessionalStudent
-    - Information Science College(ISC)
-    - Information Security Department
-    - Cyber Specialist Course　4st grade
+- Tokyo
 
 ## Club / Group
 - [IPFactory](https://ipfactory.org/)
@@ -32,7 +26,6 @@ ___
 - Mobile App development
 - MalwareAnalyze
 - CTF(Reversing)
-- BugBounty
 
 ## Events
 - Security Camp 2020
